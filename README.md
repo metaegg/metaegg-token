@@ -20,8 +20,8 @@ Earn MEGG from Farms and Syrup Pools, win it in the lottery, or buy it on the ex
 
 But that's not all -- there's much more on the horizon for MEGG!
 $MEGG is a fungible, inflationary, cryptocurrency. It makes possible the economy inside the DeFi metaverse. It also will help as a bridge between binance Network and the rest of the blockchains in our efforts to make the Meaegg multi-chain.
-$MEGG is burned, or spent, in exchange for LANDE/PLACE, ESTATE, or NFTs. There are many utilities for Metaegg NFT and MEGG-Tokens. Please refer to NFT & Tokens Utility for more information.
+$MEGG is burned, or spent, in exchange for LANDE/PLACE, ESTATE, or NFTs. There are many utilities for Metaegg NFT and MEGG-Tokens. Please refer to NFT & Tokens Utility for more information at https://docs.metaegg.io/wiki/tokenomics/megg.
 
-Please, refer to our Roadmap to know the complete launchpad.
+Please, refer to our Roadmap to know the complete launchpad https://docs.metaegg.io/wiki/metaegg/roadmap.
 Tokenomics
 Max Supply - 750M MEGG.
