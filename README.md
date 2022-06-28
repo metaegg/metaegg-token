@@ -1,4 +1,7 @@
-# Metaegg DeFi Token
+## Metaegg DeFi Token
+
+![megg-hero](https://user-images.githubusercontent.com/98596722/176262843-b820aafd-af14-4441-a53f-319a07cae115.png)
+
 
 Ticker: MEGG
 
